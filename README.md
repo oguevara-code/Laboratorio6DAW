@@ -48,6 +48,12 @@ capturas_supabase/
 
 ---
 
+## Enlace de video explicativo
+
+https://youtu.be/s594qwS_sRE
+
+---
+
 ## Autor
 
 - Guevara Aliaga, Omar Andree
